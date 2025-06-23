@@ -22,14 +22,11 @@ app.use("/api/test", require("./routes/protectedTest"));
 app.use("/api/bikes", require("./routes/bikeRoutes"));
 app.use("/api/bookings", require("./routes/bookingRoutes"));
 
-// Root route
-app.get("/", (req, res) => {
-  res.send("BitGears API is running 🚀");
-});
-
-// Serve frontend build
+// Serve frontend build after API routes
 app.use(express.static(path.join(__dirname, "build")));
-app.get("*", (req, res) => {
+
+// Serve React frontend for all non-API routes
+app.get(/^\/(?!api).*/, (req, res) => {
   res.sendFile(path.join(__dirname, "build", "index.html"));
 });
 

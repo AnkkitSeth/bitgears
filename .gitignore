@@ -8,11 +8,12 @@ backend/node_modules/
 .env.local
 .env.*.local
 
-# Ignore build outputs
-build/
+# Ignore build outputs (but NOT backend/build for deployment)
+/build/
 dist/
 frontend/build/
-backend/build/
+# ⚠️ Don't ignore backend/build since we need it for deployment
+# backend/build/   <-- Make sure this is REMOVED or COMMENTED
 
 # Logs
 *.log

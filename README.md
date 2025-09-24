@@ -82,3 +82,17 @@ npm start
 
 ## Conclusion
 BitGears is a user-friendly, full-stack bike rental platform built with modern technologies, complete with secure authentication, role-based dashboards, and a structured database design. The project demonstrates end-to-end development from frontend to backend, including system design and deployment.
+
+## Screenshots
+
+### Homepage
+<img src="./docs/homepage.png" alt="Homepage" width="600">
+
+### Student Dashboard
+<img src="./docs/student-dashboard.png" alt="Student Dashboard" width="600">
+
+### Owner Dashboard
+<img src="./docs/owner-dashboard.png" alt="Owner Dashboard" width="600">
+
+## Author
+Ankkit Seth – [Portfolio](https://ankkit.site) – [GitHub](https://github.com/AnkkitSeth)

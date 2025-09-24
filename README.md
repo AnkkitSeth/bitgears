@@ -75,6 +75,10 @@ npm start
 4. **Frontend is served from the backend’s build folder (already configured in this project).**
 
 5. **Open the app in your browser at http://localhost:<port>.**
+
+## Live Demo
+Check out the live project here: [BitGears Live](https://bitgears.onrender.com/)
+
 ## Future Enhancements
 - Payment integration for online bookings
 - Rating and review system for bikes and owners
@@ -95,4 +99,11 @@ BitGears is a user-friendly, full-stack bike rental platform built with modern t
 <img src="./docs/owner-dashboard.png" alt="Owner Dashboard" width="600">
 
 ## Author
-Ankkit Seth – [Portfolio](https://ankkit.site) – [GitHub](https://github.com/AnkkitSeth)
+**Ankkit Seth** – Full Stack Developer  
+Portfolio: [ankkit.site](https://ankkit.site)  
+GitHub: [github.com/AnkkitSeth](https://github.com/AnkkitSeth)  
+LinkedIn: [linkedin.com/in/ankkitseth](https://www.linkedin.com/in/ankkitseth/)  
+Email: ankkitseth@gmail.com  
+
+Passionate about web development, building full-stack applications, and exploring new technologies.
+

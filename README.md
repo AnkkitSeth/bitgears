@@ -30,25 +30,26 @@ BitGears is a full-stack bike rental platform that allows students to rent bikes
 ## System Design & Diagrams
 
 ### ER Diagram
-![ER Diagram](./docs/er-diagram.png)
+<img src="./docs/er-diagram.png" alt="ER Diagram" width="200">
 
 ### Level 0 DFD
-![Level 0 DFD](./docs/dfd-L0.png)
+<img src="./docs/dfd-L0.png" alt="Level 0 DFD" width="600">
 
 ### Level 1 DFD
-![Level 1 DFD](./docs/dfd-L1.png)
+<img src="./docs/dfd-L1.png" alt="Level 1 DFD" width="600">
 
 ### Use Case Diagram
-![Use Case Diagram](./docs/usecase-diagram.png)
+<img src="./docs/usecase-diagram.png" alt="Use Case Diagram" width="900">
 
 ### System Architecture
-![System Architecture](./docs/system-architecture.png)
+<img src="./docs/system-architecture.png" alt="System Architecture" width="200">
 
 ### Sequence Diagram
-![Sequence Diagram](./docs/sequence-diagram.png)
+<img src="./docs/sequence-diagram.png" alt="Sequence Diagram" width="500">
 
 ### Class Diagram
-![Class Diagram](./docs/class-diagram.png)
+<img src="./docs/class-diagram.png" alt="Class Diagram" width="200">
+
 
 ## How It Works
 1. **Frontend (React + Tailwind)**: Provides an interactive UI for Students and Owners.

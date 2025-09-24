@@ -27,6 +27,23 @@ BitGears is a full-stack bike rental platform that allows students to rent bikes
 | Auth       | JWT (JSON Web Tokens)    |
 | Deployment | Render                   |
 
+## Live Demo
+Check out the live project here: [BitGears Live](https://bitgears.onrender.com/)
+
+## Demo Video
+[![BitGears Demo](https://img.youtube.com/vi/kWvWQc3VlfU/0.jpg)](https://youtu.be/kWvWQc3VlfU?si=TVShG5QIwjwkd6b6)
+
+## Screenshots
+
+### Homepage
+<img src="./docs/homepage.png" alt="Homepage" width="600">
+
+### Student Dashboard
+<img src="./docs/student-dashboard.png" alt="Student Dashboard" width="600">
+
+### Owner Dashboard
+<img src="./docs/owner-dashboard.png" alt="Owner Dashboard" width="600">
+
 ## System Design & Diagrams
 
 ### ER Diagram
@@ -76,9 +93,6 @@ npm start
 
 5. **Open the app in your browser at http://localhost:<port>.**
 
-## Live Demo
-Check out the live project here: [BitGears Live](https://bitgears.onrender.com/)
-
 ## Future Enhancements
 - Payment integration for online bookings
 - Rating and review system for bikes and owners
@@ -86,17 +100,6 @@ Check out the live project here: [BitGears Live](https://bitgears.onrender.com/)
 
 ## Conclusion
 BitGears is a user-friendly, full-stack bike rental platform built with modern technologies, complete with secure authentication, role-based dashboards, and a structured database design. The project demonstrates end-to-end development from frontend to backend, including system design and deployment.
-
-## Screenshots
-
-### Homepage
-<img src="./docs/homepage.png" alt="Homepage" width="600">
-
-### Student Dashboard
-<img src="./docs/student-dashboard.png" alt="Student Dashboard" width="600">
-
-### Owner Dashboard
-<img src="./docs/owner-dashboard.png" alt="Owner Dashboard" width="600">
 
 ## Author
 **Ankkit Seth** – Full Stack Developer  

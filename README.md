@@ -102,7 +102,7 @@ BitGears is a user-friendly, full-stack bike rental platform built with modern t
 **Ankkit Seth** – Full Stack Developer  
 Portfolio: [ankkit.site](https://ankkit.site)  
 GitHub: [github.com/AnkkitSeth](https://github.com/AnkkitSeth)  
-LinkedIn: [linkedin.com/in/ankkitseth](https://www.linkedin.com/in/ankkitseth/)  
+LinkedIn: [linkedin.com/in/ankkit-seth-495182237/](https://www.linkedin.com/in/ankkit-seth-495182237/)  
 Email: ankkitseth@gmail.com  
 
 Passionate about web development, building full-stack applications, and exploring new technologies.

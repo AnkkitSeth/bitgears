@@ -91,7 +91,7 @@ npm start
 ```
 4. **Frontend is served from the backend’s build folder (already configured in this project).**
 
-5. **Open the app in your browser at http://localhost:<port>.**
+5. **Open the app in your browser at http://localhost:3000.**
 
 ## Future Enhancements
 - Payment integration for online bookings
